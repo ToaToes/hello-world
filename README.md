@@ -1,2 +1,6 @@
 # hello-world
-first github code
+ 
+ 
+Hi humans!
+
+descripe myself? nothing to describe...
